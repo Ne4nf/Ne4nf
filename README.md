@@ -6,49 +6,6 @@
 ## 📚 About Me
 I’m a third‑year Data Science student passionate about building AI‑driven applications that solve real‑world problems. With hands‑on experience in machine learning, RAG architectures, and deep vision models, I love turning research ideas into production‑ready systems.
 
-- 🔭 **Current Focus:**  
-  - AI‑powered medical chatbot with two‑stage retrieval, dynamic intent classification, and context memory  
-  - Real‑time fire & smoke detection integrated with Telegram alerts  
-- 🌱 **Learning:**  
-  - Advanced large‑language‑model fine‑tuning  
-  - End‑to‑end MLOps pipelines (Docker, FastAPI, CI/CD)
-
----
-
-
-## 🛠️ Technical Skills
-
-| Category             | Tools & Technologies                          |
-| -------------------- | --------------------------------------------- |
-| **Programming**      | Python, C/C++                                 |
-| **Frameworks & APIs**| FastAPI, Flask, PyTorch, OpenAI, LangChain    |
-| **Vision & CV**      | YOLOv11, OpenCV, Roboflow                     |
-| **Vector Search**    | Qdrant, FAISS                                 |
-| **Databases**        | PostgreSQL, MongoDB                           |
-| **DevOps & CI/CD**   | Git, GitHub Actions, Docker, WSL (Ubuntu)     |
-| **NLP & LLMs**       | RAG, Function Calling, Fine‑Tuning.|
-
-
----
-
-## 📫 Let’s Connect
-
-- 🔗 **GitHub:** https://github.com/Ne4nf  
-- 📄 **Linkedinre, I’m **Từ Thức** 👋  
-*He/Him* | 🎓 Bachelor of Data Science @ University of Science, VNU–HCMC | 🌐 Ho Chi Minh City, Vietnam
-
----
-
-## 📚 About Me
-I’m a third‑year Data Science student passionate about building AI‑driven applications that solve real‑world problems. With hands‑on experience in machine learning, RAG architectures, and deep vision models, I love turning research ideas into production‑ready systems.
-
-- 🔭 **Current Focus:**  
-  - AI‑powered medical chatbot with two‑stage retrieval, dynamic intent classification, and context memory  
-  - Real‑time fire & smoke detection integrated with Telegram alerts  
-- 🌱 **Learning:**  
-  - Advanced large‑language‑model fine‑tuning  
-  - End‑to‑end MLOps pipelines (Docker, FastAPI, CI/CD)
-
 ---
 
 
@@ -76,9 +33,6 @@ I’m a third‑year Data Science student passionate about building AI‑driven 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ne4nf&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-</div>
 
 <!--
 **Ne4nf/Ne4nf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
