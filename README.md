@@ -27,7 +27,7 @@ I’m a third‑year Data Science student passionate about building AI‑driven 
 ## 📫 Let’s Connect
 
 - 🔗 **GitHub:** https://github.com/Ne4nf  
-- 📄 **Linkedin:** [Thức Từ](/(https://www.linkedin.com/in/th%E1%BB%A9c-t%E1%BB%AB-23a085296/))  
+- 📄 **Linkedin:** [Thức Từ](https://www.linkedin.com/in/th%E1%BB%A9c-t%E1%BB%AB-23a085296/)  
 - 📧 **Email:** tuthucdz@gmail.com  
 - 🌍 **Location:** Ho Chi Minh City, Vietnam  
 
