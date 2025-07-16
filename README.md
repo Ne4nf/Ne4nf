@@ -15,7 +15,7 @@ I’m a third‑year Data Science student passionate about building AI‑driven 
 | -------------------- | --------------------------------------------- |
 | **Programming**      | Python, C/C++                                 |
 | **Frameworks & APIs**| FastAPI, Flask, PyTorch, OpenAI, LangChain    |
-| **Vision & CV**      | YOLOv11, OpenCV, Roboflow                     |
+| **Vision & CV**      | YOLO, OpenCV, Roboflow                     |
 | **Vector Search**    | Qdrant, FAISS                                 |
 | **Databases**        | PostgreSQL, MongoDB                           |
 | **DevOps & CI/CD**   | Git, GitHub Actions, Docker, WSL (Ubuntu)     |
