@@ -14,7 +14,7 @@ I’m a third‑year Data Science student passionate about building AI‑driven 
 | Category             | Tools & Technologies                          |
 | -------------------- | --------------------------------------------- |
 | **Programming**      | Python, C/C++                                 |
-| **Frameworks & APIs**| FastAPI, PyTorch, OpenAI, LangChain, CrewAI    |
+| **Frameworks & APIs**| FastAPI, PyTorch, HuggingFace, LangChain, CrewAI    |
 | **Vision & CV**      | YOLO, OpenCV, Roboflow                     |
 | **Vector Search**    | Qdrant, FAISS                                 |
 | **Databases**        | PostgreSQL, MongoDB                           |
