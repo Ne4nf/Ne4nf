@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-I’m a final‑year Data Science student passionate about building AI‑driven applications that solve real‑world problems. With hands‑on experience in machine learning, RAG architectures, and deep vision models, I love turning research ideas into production‑ready systems.
+- I’m a final‑year Data Science student passionate about building AI‑driven applications that solve real‑world problems. With hands‑on experience in machine learning, RAG architectures, and deep vision models, I love turning research ideas into production‑ready systems.
 ---
 
 ## Let’s Connect
